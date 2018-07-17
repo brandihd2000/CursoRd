@@ -1,0 +1,14 @@
+C:\Final Programacion 3\CursoRd\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Final Programacion 3\CursoRd\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Final Programacion 3\CursoRd\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Final Programacion 3\CursoRd\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Final Programacion 3\CursoRd\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Final Programacion 3\CursoRd\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojResolveAssemblyReference.cache
+C:\Final Programacion 3\CursoRd\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+C:\Final Programacion 3\CursoRd\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Final Programacion 3\CursoRd\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Final Programacion 3\CursoRd\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Final Programacion 3\CursoRd\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb
+C:\Final Programacion 3\CursoRd\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+C:\Final Programacion 3\CursoRd\Persistence\bin\Debug\netcoreapp2.0\Persistence.runtimeconfig.json
+C:\Final Programacion 3\CursoRd\Persistence\bin\Debug\netcoreapp2.0\Persistence.runtimeconfig.dev.json

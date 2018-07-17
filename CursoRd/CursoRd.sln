@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analisis y Diseño", "Analisis y Diseño", "{1DBA4A73-6666-4CC6-AF54-211EC90589C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursosWeb", "CursosWeb\CursosWeb.csproj", "{9441CD3D-D768-4FD4-B3AC-4330044AA537}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{C2CD814C-4A7E-421B-A4FF-FD2030475DBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\Persistence.csproj", "{5E078EC5-29F8-4F85-9A24-D0C6D790A00E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{F97E3F13-4D5A-4908-9E4A-FB5687108234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9441CD3D-D768-4FD4-B3AC-4330044AA537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9441CD3D-D768-4FD4-B3AC-4330044AA537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9441CD3D-D768-4FD4-B3AC-4330044AA537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9441CD3D-D768-4FD4-B3AC-4330044AA537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CD814C-4A7E-421B-A4FF-FD2030475DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CD814C-4A7E-421B-A4FF-FD2030475DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CD814C-4A7E-421B-A4FF-FD2030475DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CD814C-4A7E-421B-A4FF-FD2030475DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E078EC5-29F8-4F85-9A24-D0C6D790A00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E078EC5-29F8-4F85-9A24-D0C6D790A00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E078EC5-29F8-4F85-9A24-D0C6D790A00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E078EC5-29F8-4F85-9A24-D0C6D790A00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97E3F13-4D5A-4908-9E4A-FB5687108234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97E3F13-4D5A-4908-9E4A-FB5687108234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97E3F13-4D5A-4908-9E4A-FB5687108234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97E3F13-4D5A-4908-9E4A-FB5687108234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70D7330B-A036-466A-BFEE-706D76D21404}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://aprendeconcurso.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CursosWeb\\CursosWeb.csproj
+		SccProjectName1 = CursosWeb
+		SccLocalPath1 = CursosWeb
+		SccProjectUniqueName2 = Model\\Model.csproj
+		SccProjectName2 = Model
+		SccLocalPath2 = Model
+		SccProjectUniqueName3 = Persistence\\Persistence.csproj
+		SccProjectName3 = Persistence
+		SccLocalPath3 = Persistence
+		SccProjectUniqueName4 = Services\\Services.csproj
+		SccProjectName4 = Services
+		SccLocalPath4 = Services
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Final Programacion 3\CursoRd\Model\obj\Debug\netcoreapp2.0\Model.csprojResolveAssemblyReference.cache
+C:\Final Programacion 3\CursoRd\Model\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+C:\Final Programacion 3\CursoRd\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+C:\Final Programacion 3\CursoRd\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+C:\Final Programacion 3\CursoRd\Model\bin\Debug\netcoreapp2.0\Model.deps.json
+C:\Final Programacion 3\CursoRd\Model\bin\Debug\netcoreapp2.0\Model.dll
+C:\Final Programacion 3\CursoRd\Model\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Final Programacion 3\CursoRd\Model\obj\Debug\netcoreapp2.0\Model.dll
+C:\Final Programacion 3\CursoRd\Model\obj\Debug\netcoreapp2.0\Model.pdb
